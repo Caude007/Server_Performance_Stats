@@ -1,4 +1,14 @@
 📊 Server_Performance_Stats
+🚀 Usage Guide for server-stats.sh
+
+🛠️ Step 1: Make the script executable
+Before running the script, grant it execution permission:
+chmod +x server-stats.sh
+
+▶️ Step 2: Run the script
+Once the script is executable, you can launch it with:
+./server-stats.sh
+
 Create a script server-stats.sh that can analyze basic server performance statistics.
 The script should display:
 🖥️ CPU
